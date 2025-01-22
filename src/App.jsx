@@ -5,6 +5,7 @@ import Experience from "./components/Experience";
 import Tech from "./components/Tech";
 import Project from "./components/Project";
 import Contact from "./components/Contact";
+import Education from "./components/Education";
 
 const App = () => {
   return (
@@ -17,6 +18,7 @@ const App = () => {
         <Nav/>
         <Hero/>
         <About/>
+        <Education/>
         <Tech/>
         <Experience/>
         <Project/>

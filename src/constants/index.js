@@ -81,3 +81,21 @@ export const CONTACT = {
   phoneNo: "+..20922",
   email: "..jr@gmail.com",
 };
+
+export const EDUCATION = [
+  {
+    year: "2018 - 2024",
+    prodi: "S1 - Sistem dan Teknologi Informasi",
+    lembaga: "Institut Teknologi dan Bisnis Yadika Pasuruan",
+  },
+  {
+    year: "2014 - 2015",
+    prodi: "D1 - Komputer Aplikasi Bisnis",
+    lembaga: "Management and Business Education Mojokerto",
+  },
+  {
+    year: "2008 - 2011",
+    prodi: "IPS",
+    lembaga: "Madrasah Aliyah Bahrul Ulum",
+  },
+];
